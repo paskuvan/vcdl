@@ -12,7 +12,7 @@ html {
 body {
 	--color-text: #000;
 	--color-bg: #fff;
-	--color-link: #d35066;
+	--color-link: #651923;
 	--color-link-hover: #000;
 	--color-info: #333;
 	--color-menu: #031de6;
@@ -375,8 +375,8 @@ main {
 	padding: 8em 5vw;
 	font-weight: bold;
 	text-align: center;
-	background: #000;
-	color: #f0f0f0;
+	background: #651923;
+	color: #ffffff;
 }
 
 .content--related a:hover {
